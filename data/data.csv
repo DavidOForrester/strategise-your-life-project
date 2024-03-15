@@ -1,0 +1,17 @@
+Strategic Life Units,Strategic Life Areas,Description,Satisfaction,Importance,Time Invested
+Significant Other,Relationships,"Time with partners, dates",8.0,8.5,0.08
+Family,Relationships,"Engaging with kids, parents, siblings",5.5,7.0,0.001
+Friends,Relationships,Time with friends,8.0,9.0,0.001
+Physical Health/sports,"Body, mind and spirituality","Exercise, physical therapy",9.0,9.5,0.08
+Mental Health/mindfulness,"Body, mind and spirituality","Psychotherapy, meditation",5.5,6.0,0.006
+Spirituality/faith,"Body, mind and spirituality",Religious practice,0.5,0.5,0.001
+Community/citizenship,Community and society,"Membership in local clubs, jury duty",2.0,4.0,0.001
+Societal engagement,Community and society,"Volunteering, activism",2.0,3.0,0.001
+Job/career,"Job, learning and finances",Work,1.0,8.0,0.001
+Education/learning,"Job, learning and finances","Classes, training",4.0,8.0,0.125
+Finances,"Job, learning and finances","Planning, investing",9.0,6.0,0.012
+Hobbies/interests,Interests and entertainment,"Reading, collectibles",6.0,3.0,0.06
+Online entertainment,Interests and entertainment,"Social media, TV, gaming",7.0,2.0,0.2
+Offline entertainment,Interests and entertainment,"Vacations, theatre, sporting events",4.0,3.0,0.01
+Physiological needs,Personal care,"Eating, sleeping",6.0,9.0,0.4
+Activities of daily living,Personal care,"Commuting, housework",2.0,2.0,0.02
